@@ -7,7 +7,8 @@ Explore the NJIT campus on a game made using GameMaker Studio 2.0 using the foll
 
 and start exploring!
 
-#![main  image](/NJIT-Campus-Simulation/main image.png)
+
+<img src="NJIT-Campus-Simulation/main image.png" alt="main" style="width:300px;height:400px"/> <img src="NJIT-Campus-Simulation/tiernan.png" alt="game 1" style="width:300px;height:400px"/>
 
 Find our project timeline and contents, including a video of how the game looks, here:
 https://docs.google.com/document/d/1GSNhFskN0_4Oo9Zm-kUws77gKy4GUh_338-k1HiHiiQ/edit?usp=sharing
