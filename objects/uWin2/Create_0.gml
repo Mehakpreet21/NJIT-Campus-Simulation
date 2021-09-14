@@ -1,0 +1,9 @@
+menu_x=room_width/2;
+menu_y=room_height/2;
+button_h=64;
+//buttons
+button[0]="Yes";
+button[1]="No";
+buttons=array_length_1d(button);
+menu_index=0;
+last_selected=0;

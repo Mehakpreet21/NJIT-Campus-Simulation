@@ -1,0 +1,1 @@
+global.playerName=get_string("","Enter your player's name")
